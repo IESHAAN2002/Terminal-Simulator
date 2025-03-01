@@ -47,18 +47,18 @@ echo -n hello
 ## External Commands
 These commands interact with the system by calling external programs.
 
-### cat (Concatenate and Display File Contents)
+** cat (Concatenate and Display File Contents)
 Test Cases:
 cat hello.txt  # Reads and displays the contents of hello.txt  
 
-### date (Display System Date and Time)
+** date (Display System Date and Time)
 Test Cases:
 date  # Prints the current system date and time  
 
-### rm (Remove Files or Directories)
+** rm (Remove Files or Directories)
 Test Cases:
 rm hello.txt  # Deletes hello.txt  
 
-### mkdir (Create New Directory)
+** mkdir (Create New Directory)
 Test Cases:
 mkdir Ieshaan  # Creates a directory named "Ieshaan"  
